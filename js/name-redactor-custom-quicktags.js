@@ -1,0 +1,1 @@
+QTags.addButton( 'redact_name', 'redact', '<redact content="name">', '</redact>' );
